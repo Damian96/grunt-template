@@ -4,4 +4,4 @@
 
 In this tutorial, we'll learn how to customize Bootstrap 4's Sass files with Grunt. 
 
-**Available on Tuts+ December 2018**
+**Available on Tuts+ February 2019**
